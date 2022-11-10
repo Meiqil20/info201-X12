@@ -3,6 +3,7 @@
 * Develop skill with collaborating with GitHub
 
 #### The activity
+Simon here!
 
 Then try this exercise:
 
