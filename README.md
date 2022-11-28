@@ -4,6 +4,7 @@
 
 #### The activity
 Simon here!
+Leah here, collaborating as well! 
 
 Then try this exercise:
 
